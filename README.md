@@ -20,9 +20,9 @@ The sitecore topology is selected through a fancy colorful console that builds u
 F. ex. sitecore-xp0-jss
 
 This will copy in the folders in the given order
-> sitecore
-> sitecore-xp0
-> sitecore-xp0-jss
+- sitecore
+- sitecore-xp0
+- sitecore-xp0-jss
 
 sitecore being the base setup. Each higher level folder only contain the delta between the desired topology/variant and the base.
 
