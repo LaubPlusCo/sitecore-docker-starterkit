@@ -1,7 +1,7 @@
 # yask for Sitecore Docker
 _yet-another-starterkit_ for Sitecore
 
-This starter-kit generates a preconfigured local docker environment based on selected Sitecore topology and module.
+This starter-kit generates a preconfigured local docker environment based on selected Sitecore topology, variant and module(s).
 
 It uses a "layering" technique to build up a folder structure by following a similar concept to how Docker images are commonly built.
 
